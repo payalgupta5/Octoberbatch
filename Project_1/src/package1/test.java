@@ -35,7 +35,7 @@ public class test {
 		int res3=ref_var.sub(res2, 2);
 		int res4=ref_var.mul(res3, 2);
 		ref_var.div(res4,2);
-		System.out.println("Result is shown");
+		System.out.println("Result is available");
 	}
 
 }
